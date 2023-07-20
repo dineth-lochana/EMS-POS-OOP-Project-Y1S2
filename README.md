@@ -2,15 +2,15 @@
 The Project for the OOP Module in our Y1S2 as SLIITA. This is a swing Application made using Java. We had been tasked with creating a Service Management System for an Online Site Specializing in Designs. We have to manage suppliers and orders. The application is lightweight, simple and responsive.
 
 # Members and Respective Tasks 
-Dineth Mallawarachchi 	SA22521620 - Login, Home, Suppliers, Orders
+<p>Dineth Mallawarachchi&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SA22521620 - Login, Home, Suppliers, Orders</p>
 
-Dhananjaya Dilshan      SA22521798 - Employee, Inventory
+<p>Dhananjaya Dilshan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     SA22521798 - Employee, Inventory</p>
 
-Michael Jesuthasan    	SA22523600 - Monthly Sales Report Generation
+<p>Michael Jesuthasan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    	SA22523600 - Monthly Sales Report Generation</p>
 
-Suresh Sarves           SA22528414 - Email Notification 1
+<p>Suresh Sarves&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;          SA22528414 - Email Notification 1</p>
 
-J .Abishan              SA22408556 - Email Notification 2 
+<p>J .Abishan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;             SA22408556 - Email Notification 2</p> 
 
 # Screenshots
 
