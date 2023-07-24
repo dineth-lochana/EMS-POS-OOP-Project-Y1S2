@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="view.supplier_view">
+  <grid id="27dc6" binding="panel" layout-manager="GridLayoutManager" row-count="8" column-count="5" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+    <margin top="0" left="0" bottom="0" right="0"/>
+    <constraints>
+      <xy x="20" y="20" width="634" height="400"/>
+    </constraints>
+    <properties>
+      <background color="-4861211"/>
+      <foreground color="-8279067"/>
+    </properties>
+    <border type="none"/>
+    <children>
+      <component id="26618" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="0" column="0" row-span="1" col-span="5" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font name="JetBrains Mono" size="20" style="0"/>
+          <foreground color="-15724496"/>
+          <text value="Supplier Management"/>
+        </properties>
+      </component>
+      <component id="3351a" class="javax.swing.JTextField" binding="salesinput1">
+        <constraints>
+          <grid row="4" column="0" row-span="2" col-span="1" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false">
+            <preferred-size width="150" height="-1"/>
+          </grid>
+        </constraints>
+        <properties/>
+      </component>
+      <component id="c057b" class="javax.swing.JLabel" binding="sales_label1">
+        <constraints>
+          <grid row="1" column="0" row-span="3" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <foreground color="-15724496"/>
+          <text value="SupplerID"/>
+        </properties>
+      </component>
+      <component id="78af8" class="javax.swing.JLabel" binding="sales_label2">
+        <constraints>
+          <grid row="1" column="2" row-span="3" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <foreground color="-15724496"/>
+          <text value="Supplied_Item"/>
+        </properties>
+      </component>
+      <component id="48a04" class="javax.swing.JButton" binding="button1" default-binding="true">
+        <constraints>
+          <grid row="6" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-8279067"/>
+          <foreground color="-15724496"/>
+          <text value="Add"/>
+        </properties>
+      </component>
+      <component id="c950b" class="javax.swing.JTextField" binding="salesinput2">
+        <constraints>
+          <grid row="4" column="2" row-span="2" col-span="1" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false">
+            <preferred-size width="150" height="-1"/>
+          </grid>
+        </constraints>
+        <properties/>
+      </component>
+      <component id="40df1" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="1" column="3" row-span="3" col-span="2" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <foreground color="-15724496"/>
+          <text value="Quantity"/>
+        </properties>
+      </component>
+      <component id="19eeb" class="javax.swing.JTextField" binding="salesinput3">
+        <constraints>
+          <grid row="4" column="3" row-span="2" col-span="2" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false">
+            <preferred-size width="150" height="-1"/>
+          </grid>
+        </constraints>
+        <properties/>
+      </component>
+      <component id="3acf3" class="javax.swing.JLabel" binding="processconfirm">
+        <constraints>
+          <grid row="7" column="0" row-span="1" col-span="4" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <foreground color="-15724496"/>
+          <text value="Label"/>
+        </properties>
+      </component>
+      <component id="84e3f" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="1" column="1" row-span="3" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <foreground color="-15724496"/>
+          <text value="SupplierName"/>
+        </properties>
+      </component>
+      <component id="8f26d" class="javax.swing.JTextField" binding="salesinput4">
+        <constraints>
+          <grid row="4" column="1" row-span="2" col-span="1" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false">
+            <preferred-size width="150" height="-1"/>
+          </grid>
+        </constraints>
+        <properties/>
+      </component>
+      <component id="3c246" class="javax.swing.JButton" binding="button2" default-binding="true">
+        <constraints>
+          <grid row="6" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-8279067"/>
+          <foreground color="-15724496"/>
+          <text value="Update"/>
+        </properties>
+      </component>
+      <component id="76c04" class="javax.swing.JButton" binding="button3" default-binding="true">
+        <constraints>
+          <grid row="6" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-8279067"/>
+          <foreground color="-15724496"/>
+          <text value="Delete"/>
+        </properties>
+      </component>
+      <component id="da7f8" class="javax.swing.JButton" binding="showTablesButton" default-binding="true">
+        <constraints>
+          <grid row="6" column="3" row-span="1" col-span="2" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-8279067"/>
+          <foreground color="-15724496"/>
+          <text value="Show Tables"/>
+        </properties>
+      </component>
+    </children>
+  </grid>
+</form>
