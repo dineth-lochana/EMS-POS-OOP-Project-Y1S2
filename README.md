@@ -41,3 +41,28 @@ Employee Management (Micheal)
 <img src="https://github.com/lochana-dineth/OOP-Project-Y1S2/assets/30839724/8a6f8c42-a1a2-44e7-84f8-9fae2b67bbde" height="350">
 
 ---
+
+Monthly Report Generation (Dhananjaya)
+
+<img src="https://github.com/lochana-dineth/OOP-Project-Y1S2/assets/30839724/3c0ee23f-94ee-4c61-859b-ca52b97f13fe" height="350">
+
+Employee Order Allocation (Dhananjaya)
+
+<img src="https://github.com/lochana-dineth/OOP-Project-Y1S2/assets/30839724/89a56e45-a5a1-4284-871d-bf65edb1674f" height="350">
+
+---
+
+Sending Email to Customer (Abishek)
+
+<img src="https://github.com/lochana-dineth/OOP-Project-Y1S2/assets/30839724/239f634d-78da-40e8-9789-ed27e1167d19" height="350">
+
+Sending Email to Employee (Abishek & Sarves)
+
+<img src="https://github.com/lochana-dineth/OOP-Project-Y1S2/assets/30839724/ee7f3c85-2f65-40a8-be6b-6c5a6f809cb1" height="350">
+
+---
+
+Miscellaneous Credits
+
+UI Design and Finalisation (Dhananjaya)
+
