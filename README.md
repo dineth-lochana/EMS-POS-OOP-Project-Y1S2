@@ -1,4 +1,4 @@
-# OOP-Project-Y1S2
+# OOP-Project-Y1S2 - Employee Management System & Point of Sales System
 The Project for the OOP Module in our Y1S2 as SLIITA. This is a swing Application made using Java. We had been tasked with creating a Service Management System for an Online Site Specializing in Designs. We have to manage suppliers and orders. The application is lightweight, simple and responsive.
 
 # Members and Respective Tasks 
